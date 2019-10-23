@@ -1,0 +1,16 @@
+object Versions {
+  const val kotlinVersion = "1.3.50"
+  const val ankoVersion = "0.10.8"
+  const val koinVersion = "2.0.1"
+  const val coroutinesVersion = "1.3.1"
+  const val appCompatV7Version = "29.0.0"
+  const val constraintLayoutVersion = "1.1.3"
+  const val exposedVersion = "0.17.3"
+  const val sqliteDriverVersion = "3.28.0"
+  const val flywayVersion = "5.2.4"
+  const val hikariVersion = "3.3.1"
+  const val junitVersion = "4.12"
+  const val androidTestRunnerVersion = "1.0.2"
+  const val androidEspressoCoreVersion = "3.0.2"
+  const val androidLifecycleVersion = "2.1.0"
+}
